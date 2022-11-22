@@ -1,3 +1,4 @@
+![weather app image](https://downloader.disk.yandex.ru/preview/c851d491c30acd3c2129f2af9bb80805e40de6e671c47df24f26cff7dd8d6239/637d1f63/8Y0bzMoqSA4zHfNktpIlQQOAODYNOHCck955R3n5_iSmWs6XCM-hePzyL45lByYY0KeVhBeg9VzsUkxUEiIK2Q%3D%3D?uid=0&filename=Снимок%20экрана%202022-11-22%20в%2018.11.47.png&disposition=inline&hash=&limit=0&content_type=image%2Fpng&owner_uid=0&tknv=v2&size=2048x2048)
 # Weather App
 
 Thank you for your interest to this Weather App. It allows you to enter the city and receive the current weather and also a forecast for the following 5 days.
