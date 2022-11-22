@@ -2,6 +2,8 @@
 
 Thank you for your interest to this Weather App. It allows you to enter the city and receive the current weather and also a forecast for the following 5 days.
 
+[Try it yourself](https://anna5756855.github.io/react-weather-app/)
+
 ## Available Scripts
 
 In the project directory, you can run:
