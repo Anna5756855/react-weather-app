@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Weather App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Thank you for your interest to this Weather App. It allows you to enter the city and receive the current weather and also a forecast for the following 5 days.
 
 ## Available Scripts
 
